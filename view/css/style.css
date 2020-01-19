@@ -1,0 +1,51 @@
+.Bpage {
+    margin-top: 100px;
+    background: #fdfdfd;
+}
+.Bnurl {
+    font-size: 25px;
+    color: #ea6c4f;
+    background: #403b3b;
+    border: 1px solid #cbd1dc;
+    padding: 15px 25px;
+}
+.Burl {
+    font-size: 25px;
+    height: 60px;
+    border-radius: 2px;
+    color: #5197e0;
+}
+
+/*
+ * Custom styles
+ */
+.navbar-brand {
+    font-size: 24px;
+}
+
+.navbar-container {
+    padding: 20px 0 20px 0;
+}
+
+.navbar.navbar-fixed-top.fixed-theme {
+    background-color: #222;
+    border-color: #080808;
+    box-shadow: 0 0 5px rgba(0,0,0,.8);
+}
+
+.navbar-brand.fixed-theme {
+    font-size: 18px;
+}
+
+.navbar-container.fixed-theme {
+    padding: 0;
+}
+
+.navbar-brand.fixed-theme,
+.navbar-container.fixed-theme,
+.navbar.navbar-fixed-top.fixed-theme,
+.navbar-brand,
+.navbar-container{
+    transition: 0.8s;
+    -webkit-transition:  0.8s;
+}
