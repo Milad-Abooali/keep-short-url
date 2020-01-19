@@ -1,4 +1,4 @@
 # keep-short-url
-URL Shorter Script Sample
+URL Shortener Script Sample
 
 Demo: http://booo.ir/
